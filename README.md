@@ -1,2 +1,3 @@
 # testyourmind
 TestYourMind is a website which offers various tests for people to complete
+In this project I focused on a test with some questions for everyone to check their brains’ power. For now question is the only one and copied 5 times, but in the end I want this project to get random questions from the array of JSON objects, so it would be a surprise, which questions there will be. For now the script of validating the right answer is almost done, have to finish it (not gonna take so mush time). As well, design will be more attractive, when I will finish working in it, didn’t have mush time (script fixing issues), but the structure is as it should be! Project needs some fixes, but I will manage to fix it by the weekend.
